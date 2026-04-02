@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my 1st git repository
-Author-shivani Metri
+Author-shivani I Metri
